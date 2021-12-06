@@ -10,5 +10,7 @@ Steps to Run:
 
 Sample inputs:
 
-5 <br />
-2 1 3 1 2
+3 <br />
+11 2 4 <br />
+4 5 6 <br />
+10 8 -12
