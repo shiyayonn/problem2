@@ -9,5 +9,5 @@ Steps to Run:
 
 Sample inputs:
 
-5__
+5 <br />
 2 1 3 1 2
