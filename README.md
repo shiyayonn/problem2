@@ -8,7 +8,8 @@ Steps to Run:
 2) Run command "dotnet run" at root directory
 
 Sample inputs:
-3
-11 2 4
-4 5 6
-10 8 -12
+
+  3
+  11 2 4
+  4 5 6
+  10 8 -12
